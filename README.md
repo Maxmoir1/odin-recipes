@@ -1,0 +1,1 @@
+The current project is to familiarize myself with basic HTML concepts. Then in the future style this project with CSS. 
